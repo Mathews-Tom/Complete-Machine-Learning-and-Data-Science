@@ -1,0 +1,6 @@
+__MACOSX
+.DS_Store
+__pycache__
+.ipynb_checkpoints
+.obsidian/
+.idea
