@@ -13,3 +13,5 @@ PS: The notebooks offered in the original repo has been modified to reflect my l
 
 - [Notebooks](Notebooks) - All the notebooks created through the course with my personal modifications.
 - [Slides](Slides) - Course content slides
+
+[Course Material](https://github.com/Mathews-Tom/ZTM-Course-Contents/tree/main/Complete_Machine_Learning_and_Data_Science)
